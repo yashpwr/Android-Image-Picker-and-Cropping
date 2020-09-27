@@ -2,7 +2,7 @@ Android Choosing Image from Camera or Gallery with Crop Functionality
 ===================
 Android sample project demonstrating choosing an image from gallery or camera with the cropping functionality.
 
-![Demo](/Android-choosing-Image-from-Camera-Gallery-with-Crop-Functionality.png)
+![Demo](https://github.com/yashpwr/Android-Image-Picker-and-Cropping/blob/master/Android%20choosing%20Image%20from%20Camera%20-%20Gallery%20with%20Crop%20Functionality.png)
 
 
 | [Complete Tutorial](#)      |  [Apk](http://download.codedecode.in/apk/image-pick-crop.apk) | [Video Demo](#)|
